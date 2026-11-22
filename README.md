@@ -1,12 +1,12 @@
 # Martin “FITZZZ” Ogunsakin
 
-**Product Designer & Design Engineer with a background in fashion and creative direction**
+**Product Designer & Design Engineer**
 
-I take digital products from visual direction and user flows to working interfaces. I’ve built custom Shopify storefronts for fashion, a mobile-first appointment request flow for barbering, and websites for education and community programmes. My fashion and creative direction work shapes how I approach art direction, merchandising, and the details of a digital experience.
+I design and build custom Shopify storefronts, mobile-first booking flows, and responsive web apps. My work includes product discovery and checkout journeys, appointment requests, education platforms, and programme registration. I take projects from user flows and prototypes through to implementation.
 
 I’m open to Product Design and Design Engineering roles, including hybrid opportunities in Lagos and remote roles.
 
-[Digital product case studies](https://fitzzz-portfolio.vercel.app/projects.html) · [Fashion and creative direction portfolio](https://fitzzz-portfolio.vercel.app/)
+[Digital product case studies](https://fitzzz-portfolio.vercel.app/projects.html)
 
 ## Projects
 
